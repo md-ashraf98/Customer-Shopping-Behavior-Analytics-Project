@@ -56,8 +56,6 @@ A leading retail company wants to better understand its customers' shopping beha
 
 ## 🧭 Approach
 
-![Project approach](images/workflow.png)
-
 1. **Business problem**: define the problem, core question and objectives.
 2. **Data collection & preparation**: quality checks, treatment of missing values, standardised fields and new customer groupings (Python).
 3. **Analysis & insight generation**: nine business questions answered with SQL on a MySQL database.
@@ -66,7 +64,6 @@ A leading retail company wants to better understand its customers' shopping beha
 
 ## 📊 Power BI Dashboard
 
-![Dashboard](images/dashboard.png)
 
 The dashboard gives stakeholders a single-page view of:
 
