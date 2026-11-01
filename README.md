@@ -159,4 +159,23 @@ Customer-Shopping-Behaviour-Analytics/
 
 ---
 
+## Built with Claude
+
+I used Claude as an assistant while working on this project, mainly to understand the
+business problem and to frame the nine business questions around it.
+
+**How I used it**
+- Talked through the business problem and what decisions the analysis should support
+  (customer engagement, discounts, subscriptions, marketing strategy).
+- Asked for help structuring the analysis: data preparation, SQL logic for each question,
+  and how to present the results in the Power BI dashboard.
+
+**How I checked the output**
+- Verified results against the raw data instead of trusting generated numbers.
+- Compared outputs with the business context and rechecked anything that did not fit.
+
+**Where the AI was wrong and what I changed**
+- Some of the suggested queries and interpretations did not fit the dataset or the
+  business situation, so I corrected them against the data and the problem I was solving.
+
 ⭐ If you found this project useful, consider giving the repository a star.
